@@ -10,7 +10,7 @@
     "react-dom": "^16.12.0",
     "react-scripts": "3.3.0"
   },
-  "homepage": "./",
+  "homepage": "https://mayandev.github.io/react-github-action",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
