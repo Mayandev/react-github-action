@@ -2,6 +2,7 @@
   "name": "react-github-action",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mayandev.github.io/react-github-action",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
